@@ -1,0 +1,7 @@
+dist/
+*.egg-info/
+.eggs/
+.vscode/
+__pycache__/
+build/
+*.swp
